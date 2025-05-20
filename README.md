@@ -1,5 +1,4 @@
-# Prova NodeJS - Empresta Bem Melhor
-
+# WebScrapping API - NodeJS|Puppeteer
 ## API NodeJS desenvolvida para retirar dados específicos do site Portal da Transparência utilizando a ferramenta Puppeteer e popular um banco de dados NoSQL com as informações adquiridas.
 
 ### Features
